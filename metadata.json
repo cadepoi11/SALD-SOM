@@ -1,0 +1,8 @@
+{
+  "name": "JOTA FOOTBALL ACADEMY MANAGEMENT SYSTEM",
+  "description": "A comprehensive sports academy management dashboard featuring player tracking, training schedules, match results, and AI-powered performance reporting for Jota Football Academy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
